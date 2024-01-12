@@ -2,8 +2,8 @@
   "name": "nuxt-2-goto",
   "displayName": "Nuxt 2 goto",
   "description": "Nuxt 2 go to component.",
-  "version": "0.0.1",
-  "publisher": "Skyboost",
+  "version": "0.1.0",
+  "publisher": "woods",
   "engines": {
     "vscode": "^1.78.0"
   },
