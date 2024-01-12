@@ -3,6 +3,11 @@
   "displayName": "Nuxt 2 goto",
   "description": "Nuxt 2 go to component.",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jameskid007/nuxt-2-goto",
+    "ref": "main"
+  },
   "publisher": "woods",
   "engines": {
     "vscode": "^1.78.0"
